@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tileObjects>
+    <tile value="1" file="./Data/Map/Tiles Objects/archetype_numberOne.atmo" isUsing="1">numberOne</tile>
+    <tile value="2" file="./Data/Map/Tiles Objects/archetype_numberTwo.atmo" isUsing="1">numberTwo</tile>
+    <tile value="3" file="./Data/Map/Tiles Objects/archetype_numberThree.atmo" isUsing="1">numberThree</tile>
+    <tile value="4" file="./Data/Map/Tiles Objects/archetype_numberFour.atmo" isUsing="1">numberFour</tile>
+    <tile value="5" file="./Data/Map/Tiles Objects/archetype_numberFive.atmo" isUsing="1">numberFive</tile>
+    <tile value="0" file="./Data/Map/Tiles Objects/archetype_numberCross.atmo" isUsing="1">Cross</tile>
+</tileObjects>
+

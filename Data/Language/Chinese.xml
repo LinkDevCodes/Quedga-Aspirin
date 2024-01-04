@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language type="package" encoding="utf-8" font="default">
+    <page id="multiplePersonsGamePage">
+        <alterableText id="10x0">
+            <main color="255,255,255">Quedga Aspirin</main>
+        </alterableText>
+        <button id="13x3">
+            <main color="255,55,55"><![CDATA[>> ]]>开始游戏 <![CDATA[<<]]></main>
+            <hover>Warning: 当前悬浮于"开始游戏"按钮选项, 单击鼠标右键以确认进入游戏</hover>
+            <check>Warning: 当前选中于"开始游戏"按钮选项, 载入游戏页面中…</check>
+        </button>
+
+    </page>
+</language>
